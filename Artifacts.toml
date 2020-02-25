@@ -1,0 +1,10 @@
+[[P4est_MPICH]]
+arch = "x86_64"
+git-tree-sha1 = "4be942b5a474426bbc0c18b4d51fc1e7a326ba5e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[P4est_MPICH.download]]
+    sha256 = "573420da4e33f8b9cbbb5cdb1459b2a0e0a916ce7853c2cb8911830ec7f24f51"
+    url = "https://github.com/sloede/P4est_MPICH_jll.jl/releases/download/P4est_MPICH-v2.2.0+0/P4est_MPICH.v2.2.0.x86_64-linux-gnu-libgfortran4.tar.gz"

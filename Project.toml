@@ -1,0 +1,13 @@
+name = "P4est_MPICH_jll"
+uuid = "4152f6dd-c906-551a-895a-1735b697ea97"
+version = "2.2.0+0"
+
+[deps]
+MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
